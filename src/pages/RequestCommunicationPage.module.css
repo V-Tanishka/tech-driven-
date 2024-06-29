@@ -1,0 +1,162 @@
+.startingIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 982px;
+  object-fit: cover;
+}
+.communication,
+.request {
+  position: absolute;
+  top: 78px;
+  left: 671px;
+  display: inline-block;
+  width: 169px;
+  height: 76px;
+}
+.communication {
+  top: 174px;
+  left: 624px;
+  font-weight: 500;
+  width: 304px;
+}
+.i {
+  font-weight: 300;
+}
+.prisonerIdContainer,
+.thankYou {
+  position: absolute;
+  top: 270px;
+  left: 90px;
+  display: inline-block;
+  width: 347px;
+  height: 61px;
+}
+.thankYou {
+  top: 824px;
+  left: 657px;
+  width: 237px;
+  height: 73px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 3.53%;
+  width: 2.39%;
+  top: 8.45%;
+  right: 5.88%;
+  bottom: 88.01%;
+  left: 91.73%;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  border: 3px solid var(--color-lavenderblush);
+  box-sizing: border-box;
+  width: 288px;
+  height: 67px;
+}
+.requestcommunicationPageInner {
+  position: absolute;
+  top: 692px;
+  left: 909px;
+  width: 288px;
+  height: 67px;
+  cursor: pointer;
+}
+.requestcommunicationPageChild {
+  position: absolute;
+  top: 692px;
+  left: 316px;
+  width: 288px;
+  height: 67px;
+}
+.requestcommunicationPageItem {
+  position: absolute;
+  top: 339px;
+  left: 106px;
+  border: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 1317px;
+  height: 461px;
+}
+.reason {
+  font-weight: 600;
+}
+.span {
+  font-weight: 500;
+}
+.accept,
+.lastTimeContainer,
+.reasonEmotionalContainer {
+  position: absolute;
+  top: 377px;
+  left: 153px;
+  display: inline-block;
+  width: 574px;
+  height: 74px;
+}
+.accept,
+.lastTimeContainer {
+  top: 491px;
+  left: 159px;
+  width: 388px;
+  height: 65px;
+}
+.accept {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 701px;
+  left: 379px;
+  font-weight: 600;
+  width: 162px;
+  height: 48px;
+}
+.accept,
+.decline,
+.requestcommunicationPage {
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-exo);
+}
+.decline {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 701px;
+  left: 972px;
+  font-weight: 600;
+  display: inline-block;
+  width: 162px;
+  height: 48px;
+}
+.requestcommunicationPage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+}

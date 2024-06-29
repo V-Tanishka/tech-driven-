@@ -1,0 +1,1820 @@
+.startingIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 4656px;
+  object-fit: cover;
+}
+.vectorIcon,
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.05%;
+  top: 6.62%;
+  right: 76.79%;
+  bottom: 92.55%;
+  left: 21.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3 {
+  width: 2.12%;
+  top: 13.7%;
+  right: 76.72%;
+  bottom: 85.46%;
+}
+.vectorIcon2,
+.vectorIcon3 {
+  top: 21.22%;
+  right: 76.59%;
+  bottom: 77.94%;
+  left: 21.3%;
+}
+.vectorIcon3 {
+  top: 28.89%;
+  right: 76.32%;
+  bottom: 70.27%;
+  left: 21.56%;
+}
+.vectorIcon10,
+.vectorIcon4,
+.vectorIcon5,
+.vectorIcon6,
+.vectorIcon7,
+.vectorIcon8,
+.vectorIcon9 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.12%;
+  top: 37.76%;
+  right: 76.72%;
+  bottom: 61.4%;
+  left: 21.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon10,
+.vectorIcon5,
+.vectorIcon6,
+.vectorIcon7,
+.vectorIcon8,
+.vectorIcon9 {
+  top: 46.03%;
+  bottom: 53.14%;
+}
+.vectorIcon10,
+.vectorIcon6,
+.vectorIcon7,
+.vectorIcon8,
+.vectorIcon9 {
+  top: 53.22%;
+  right: 76.98%;
+  bottom: 45.94%;
+  left: 20.9%;
+}
+.vectorIcon10,
+.vectorIcon7,
+.vectorIcon8,
+.vectorIcon9 {
+  top: 61.04%;
+  right: 76.72%;
+  bottom: 38.12%;
+  left: 21.16%;
+}
+.vectorIcon10,
+.vectorIcon8,
+.vectorIcon9 {
+  top: 72.66%;
+  right: 76.19%;
+  bottom: 26.5%;
+  left: 21.69%;
+}
+.vectorIcon10,
+.vectorIcon9 {
+  top: 81.29%;
+  bottom: 17.87%;
+}
+.vectorIcon10 {
+  width: 1.92%;
+  top: 89.54%;
+  right: 76.32%;
+  bottom: 9.62%;
+  left: 21.76%;
+}
+.civilCourtGhaziabad,
+.govindpuramGhaziabad,
+.nehruNagarIii,
+.rajNagarGhaziabad,
+.rajNagarGhaziabad1 {
+  position: absolute;
+  top: 308px;
+  left: 361px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 405px;
+  height: 49px;
+}
+.civilCourtGhaziabad,
+.govindpuramGhaziabad,
+.nehruNagarIii,
+.rajNagarGhaziabad1 {
+  top: 633px;
+}
+.civilCourtGhaziabad,
+.nehruNagarIii,
+.rajNagarGhaziabad1 {
+  top: 988px;
+}
+.civilCourtGhaziabad,
+.rajNagarGhaziabad1 {
+  top: 1344px;
+  left: 373px;
+}
+.rajNagarGhaziabad1 {
+  top: 1758px;
+}
+.civilCourtGhaziabad1,
+.crossingRepublikGhaziabad,
+.indirapuramGhaziabad,
+.koshambiGhaziabad,
+.rajNagarGhaziabad2,
+.vasundharaGhaziabad {
+  position: absolute;
+  top: 2138px;
+  left: 373px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 405px;
+  height: 49px;
+}
+.civilCourtGhaziabad1,
+.crossingRepublikGhaziabad,
+.koshambiGhaziabad,
+.rajNagarGhaziabad2,
+.vasundharaGhaziabad {
+  top: 2478px;
+  left: 360px;
+}
+.civilCourtGhaziabad1,
+.crossingRepublikGhaziabad,
+.rajNagarGhaziabad2,
+.vasundharaGhaziabad {
+  top: 2842px;
+  left: 373px;
+}
+.crossingRepublikGhaziabad,
+.rajNagarGhaziabad2,
+.vasundharaGhaziabad {
+  top: 3378px;
+}
+.crossingRepublikGhaziabad,
+.vasundharaGhaziabad {
+  top: 3780px;
+}
+.crossingRepublikGhaziabad {
+  top: 4164px;
+  width: 457px;
+}
+.vectorIcon11,
+.vectorIcon12,
+.vectorIcon13,
+.vectorIcon14,
+.vectorIcon15 {
+  position: absolute;
+  height: 0.99%;
+  width: 2.38%;
+  top: 8.46%;
+  right: 76.59%;
+  bottom: 90.55%;
+  left: 21.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon12,
+.vectorIcon13,
+.vectorIcon14,
+.vectorIcon15 {
+  top: 15.55%;
+  bottom: 83.46%;
+}
+.vectorIcon13,
+.vectorIcon14,
+.vectorIcon15 {
+  top: 22.87%;
+  bottom: 76.14%;
+}
+.vectorIcon14,
+.vectorIcon15 {
+  top: 30.71%;
+  right: 76.32%;
+  bottom: 68.3%;
+  left: 21.3%;
+}
+.vectorIcon15 {
+  top: 39.43%;
+  right: 76.59%;
+  bottom: 59.58%;
+  left: 21.03%;
+}
+.vectorIcon16,
+.vectorIcon17,
+.vectorIcon18,
+.vectorIcon19,
+.vectorIcon20,
+.vectorIcon21 {
+  position: absolute;
+  height: 0.99%;
+  width: 2.65%;
+  top: 47.85%;
+  right: 76.46%;
+  bottom: 51.16%;
+  left: 20.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon17,
+.vectorIcon18,
+.vectorIcon19,
+.vectorIcon20,
+.vectorIcon21 {
+  width: 2.38%;
+  top: 55.37%;
+  right: 76.98%;
+  bottom: 43.64%;
+  left: 20.63%;
+}
+.vectorIcon18,
+.vectorIcon19,
+.vectorIcon20,
+.vectorIcon21 {
+  top: 63.08%;
+  right: 76.72%;
+  bottom: 35.93%;
+  left: 20.9%;
+}
+.vectorIcon19,
+.vectorIcon20,
+.vectorIcon21 {
+  width: 2.45%;
+  top: 74.81%;
+  right: 75.86%;
+  bottom: 24.21%;
+  left: 21.69%;
+}
+.vectorIcon20,
+.vectorIcon21 {
+  width: 2.25%;
+  top: 82.95%;
+  right: 76.19%;
+  bottom: 16.07%;
+  left: 21.56%;
+}
+.vectorIcon21 {
+  width: 2.38%;
+  top: 91.75%;
+  right: 75.86%;
+  bottom: 7.26%;
+  left: 21.76%;
+}
+.vectorIcon22,
+.vectorIcon23,
+.vectorIcon24,
+.vectorIcon25,
+.vectorIcon26,
+.vectorIcon27,
+.vectorIcon28,
+.vectorIcon29,
+.vectorIcon30 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.78%;
+  top: 4.79%;
+  right: 34.59%;
+  bottom: 94.37%;
+  left: 62.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon23,
+.vectorIcon24,
+.vectorIcon25,
+.vectorIcon26,
+.vectorIcon27,
+.vectorIcon28,
+.vectorIcon29,
+.vectorIcon30 {
+  top: 11.88%;
+  bottom: 87.29%;
+}
+.vectorIcon24,
+.vectorIcon25,
+.vectorIcon26,
+.vectorIcon27,
+.vectorIcon28,
+.vectorIcon29,
+.vectorIcon30 {
+  top: 19.5%;
+  bottom: 79.66%;
+}
+.vectorIcon25,
+.vectorIcon26,
+.vectorIcon27,
+.vectorIcon28,
+.vectorIcon29,
+.vectorIcon30 {
+  top: 27.3%;
+  bottom: 71.86%;
+}
+.vectorIcon26,
+.vectorIcon27,
+.vectorIcon28,
+.vectorIcon29,
+.vectorIcon30 {
+  top: 36.13%;
+  bottom: 63.04%;
+}
+.vectorIcon27,
+.vectorIcon28,
+.vectorIcon29,
+.vectorIcon30 {
+  top: 44.35%;
+  bottom: 54.81%;
+}
+.vectorIcon28,
+.vectorIcon29,
+.vectorIcon30 {
+  top: 51.68%;
+  bottom: 47.49%;
+}
+.vectorIcon29,
+.vectorIcon30 {
+  top: 59.6%;
+  bottom: 39.56%;
+}
+.vectorIcon30 {
+  top: 71.31%;
+  bottom: 27.86%;
+}
+.vectorIcon31,
+.vectorIcon32,
+.vectorIcon33,
+.vectorIcon34,
+.vectorIcon35,
+.vectorIcon36,
+.vectorIcon37,
+.vectorIcon38,
+.vectorIcon39 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.78%;
+  top: 79.85%;
+  right: 34.59%;
+  bottom: 19.31%;
+  left: 62.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon32,
+.vectorIcon33,
+.vectorIcon34,
+.vectorIcon35,
+.vectorIcon36,
+.vectorIcon37,
+.vectorIcon38,
+.vectorIcon39 {
+  top: 88.36%;
+  bottom: 10.8%;
+}
+.vectorIcon33,
+.vectorIcon34,
+.vectorIcon35,
+.vectorIcon36,
+.vectorIcon37,
+.vectorIcon38,
+.vectorIcon39 {
+  right: 31.81%;
+  left: 65.41%;
+}
+.vectorIcon34,
+.vectorIcon35,
+.vectorIcon36,
+.vectorIcon37,
+.vectorIcon38,
+.vectorIcon39 {
+  right: 29.03%;
+  left: 68.19%;
+}
+.vectorIcon35,
+.vectorIcon36,
+.vectorIcon37,
+.vectorIcon38,
+.vectorIcon39 {
+  top: 79.85%;
+  right: 31.81%;
+  bottom: 19.31%;
+  left: 65.41%;
+}
+.vectorIcon36,
+.vectorIcon37,
+.vectorIcon38,
+.vectorIcon39 {
+  top: 71.31%;
+  bottom: 27.86%;
+}
+.vectorIcon37,
+.vectorIcon38,
+.vectorIcon39 {
+  right: 29.03%;
+  left: 68.19%;
+}
+.vectorIcon38,
+.vectorIcon39 {
+  right: 26.26%;
+  left: 70.97%;
+}
+.vectorIcon39 {
+  top: 59.6%;
+  right: 31.81%;
+  bottom: 39.56%;
+  left: 65.41%;
+}
+.vectorIcon40,
+.vectorIcon41,
+.vectorIcon42,
+.vectorIcon43,
+.vectorIcon44,
+.vectorIcon45,
+.vectorIcon46,
+.vectorIcon47,
+.vectorIcon48 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.78%;
+  top: 59.6%;
+  right: 29.03%;
+  bottom: 39.56%;
+  left: 68.19%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon41,
+.vectorIcon42,
+.vectorIcon43,
+.vectorIcon44,
+.vectorIcon45,
+.vectorIcon46,
+.vectorIcon47,
+.vectorIcon48 {
+  right: 26.26%;
+  left: 70.97%;
+}
+.vectorIcon42,
+.vectorIcon43,
+.vectorIcon44,
+.vectorIcon45,
+.vectorIcon46,
+.vectorIcon47,
+.vectorIcon48 {
+  right: 23.48%;
+  left: 73.74%;
+}
+.vectorIcon43,
+.vectorIcon44,
+.vectorIcon45,
+.vectorIcon46,
+.vectorIcon47,
+.vectorIcon48 {
+  top: 51.68%;
+  right: 31.81%;
+  bottom: 47.49%;
+  left: 65.41%;
+}
+.vectorIcon44,
+.vectorIcon45,
+.vectorIcon46,
+.vectorIcon47,
+.vectorIcon48 {
+  right: 29.03%;
+  left: 68.19%;
+}
+.vectorIcon45,
+.vectorIcon46,
+.vectorIcon47,
+.vectorIcon48 {
+  right: 26.26%;
+  left: 70.97%;
+}
+.vectorIcon46,
+.vectorIcon47,
+.vectorIcon48 {
+  top: 44.35%;
+  right: 31.81%;
+  bottom: 54.81%;
+  left: 65.41%;
+}
+.vectorIcon47,
+.vectorIcon48 {
+  right: 29.03%;
+  left: 68.19%;
+}
+.vectorIcon48 {
+  right: 26.26%;
+  left: 70.97%;
+}
+.vectorIcon49,
+.vectorIcon50,
+.vectorIcon51,
+.vectorIcon52,
+.vectorIcon53,
+.vectorIcon54,
+.vectorIcon55,
+.vectorIcon56,
+.vectorIcon57 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.78%;
+  top: 36.13%;
+  right: 31.81%;
+  bottom: 63.04%;
+  left: 65.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon50,
+.vectorIcon51,
+.vectorIcon52,
+.vectorIcon53,
+.vectorIcon54,
+.vectorIcon55,
+.vectorIcon56,
+.vectorIcon57 {
+  right: 29.03%;
+  left: 68.19%;
+}
+.vectorIcon51,
+.vectorIcon52,
+.vectorIcon53,
+.vectorIcon54,
+.vectorIcon55,
+.vectorIcon56,
+.vectorIcon57 {
+  right: 26.26%;
+  left: 70.97%;
+}
+.vectorIcon52,
+.vectorIcon53,
+.vectorIcon54,
+.vectorIcon55,
+.vectorIcon56,
+.vectorIcon57 {
+  top: 27.3%;
+  right: 31.42%;
+  bottom: 71.86%;
+  left: 65.81%;
+}
+.vectorIcon53,
+.vectorIcon54,
+.vectorIcon55,
+.vectorIcon56,
+.vectorIcon57 {
+  right: 28.24%;
+  left: 68.98%;
+}
+.vectorIcon54,
+.vectorIcon55,
+.vectorIcon56,
+.vectorIcon57 {
+  right: 25.07%;
+  left: 72.16%;
+}
+.vectorIcon55,
+.vectorIcon56,
+.vectorIcon57 {
+  top: 19.5%;
+  right: 31.61%;
+  bottom: 79.66%;
+  left: 65.61%;
+}
+.vectorIcon56,
+.vectorIcon57 {
+  right: 28.64%;
+  left: 68.58%;
+}
+.vectorIcon57 {
+  right: 25.66%;
+  left: 71.56%;
+}
+.vectorIcon58,
+.vectorIcon59,
+.vectorIcon60,
+.vectorIcon61,
+.vectorIcon62,
+.vectorIcon63,
+.vectorIcon64,
+.vectorIcon65 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.78%;
+  top: 11.88%;
+  right: 31.81%;
+  bottom: 87.29%;
+  left: 65.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon59,
+.vectorIcon60,
+.vectorIcon61,
+.vectorIcon62,
+.vectorIcon63,
+.vectorIcon64,
+.vectorIcon65 {
+  right: 29.03%;
+  left: 68.19%;
+}
+.vectorIcon60,
+.vectorIcon61,
+.vectorIcon62,
+.vectorIcon63,
+.vectorIcon64,
+.vectorIcon65 {
+  right: 26.26%;
+  left: 70.97%;
+}
+.vectorIcon61,
+.vectorIcon62,
+.vectorIcon63,
+.vectorIcon64,
+.vectorIcon65 {
+  right: 23.48%;
+  left: 73.74%;
+}
+.vectorIcon62,
+.vectorIcon63,
+.vectorIcon64,
+.vectorIcon65 {
+  top: 4.79%;
+  right: 31.61%;
+  bottom: 94.37%;
+  left: 65.61%;
+}
+.vectorIcon63,
+.vectorIcon64,
+.vectorIcon65 {
+  right: 28.84%;
+  left: 68.39%;
+}
+.vectorIcon64,
+.vectorIcon65 {
+  right: 25.86%;
+  left: 71.36%;
+}
+.vectorIcon65 {
+  right: 22.88%;
+  left: 74.34%;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4 {
+  position: absolute;
+  top: 222px;
+  left: 1174px;
+  font-weight: 500;
+  display: inline-block;
+  width: 60px;
+  height: 44px;
+}
+.div1,
+.div2,
+.div3,
+.div4 {
+  top: 548px;
+}
+.div2,
+.div3,
+.div4 {
+  top: 906px;
+  left: 1179px;
+}
+.div3,
+.div4 {
+  top: 1266px;
+  left: 1172px;
+}
+.div4 {
+  top: 1680px;
+  left: 1173px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 2060px;
+  left: 1170px;
+  font-weight: 500;
+  display: inline-block;
+  width: 60px;
+  height: 44px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 2403px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div7,
+.div8,
+.div9 {
+  top: 2773px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div8,
+.div9 {
+  top: 3318px;
+  left: 1172px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div9 {
+  top: 3706px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16 {
+  top: 4109px;
+}
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16 {
+  top: 218px;
+  left: 1237px;
+  font-size: var(--font-size-29xl);
+  width: 21px;
+  height: 64px;
+}
+.div12,
+.div13,
+.div14,
+.div15,
+.div16 {
+  top: 541px;
+  left: 1239px;
+}
+.div13,
+.div14,
+.div15,
+.div16 {
+  top: 899px;
+  left: 1238px;
+}
+.div14,
+.div15,
+.div16 {
+  top: 1673px;
+  left: 1237px;
+}
+.div15,
+.div16 {
+  top: 2056px;
+  left: 1236px;
+}
+.div16 {
+  top: 2399px;
+  left: 1235px;
+}
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  position: absolute;
+  top: 2768px;
+  left: 1236px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 21px;
+  height: 64px;
+}
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 3314px;
+  left: 1235px;
+}
+.div19,
+.div20,
+.div21,
+.div22,
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 3696px;
+}
+.div20,
+.div21,
+.div22,
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 4102px;
+}
+.div21,
+.div22,
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 1259px;
+  left: 1238px;
+}
+.div22,
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 214px;
+  left: 1258px;
+  width: 105px;
+  height: 51px;
+}
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 544px;
+}
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 903px;
+  left: 1259px;
+}
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 1262px;
+}
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 1676px;
+}
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 2056px;
+  left: 1252px;
+}
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 2403px;
+  left: 1251px;
+}
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 2768px;
+  left: 1252px;
+}
+.div30,
+.div31,
+.div32 {
+  top: 3314px;
+}
+.div31,
+.div32 {
+  top: 3698px;
+}
+.div32 {
+  top: 4102px;
+  left: 1246px;
+  width: 139px;
+}
+.practiceAreaAnd,
+.practiceAreaAnd1,
+.practiceAreaAnd2,
+.practiceAreaAnd3 {
+  position: absolute;
+  top: 298px;
+  left: 954px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 357px;
+  height: 42px;
+}
+.practiceAreaAnd1,
+.practiceAreaAnd2,
+.practiceAreaAnd3 {
+  top: 605px;
+}
+.practiceAreaAnd2,
+.practiceAreaAnd3 {
+  top: 963px;
+  left: 955px;
+}
+.practiceAreaAnd3 {
+  top: 1313px;
+  left: 954px;
+}
+.practiceAreaAnd10,
+.practiceAreaAnd4,
+.practiceAreaAnd5,
+.practiceAreaAnd6,
+.practiceAreaAnd7,
+.practiceAreaAnd8,
+.practiceAreaAnd9 {
+  position: absolute;
+  top: 1730px;
+  left: 954px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 357px;
+  height: 42px;
+}
+.practiceAreaAnd10,
+.practiceAreaAnd5,
+.practiceAreaAnd6,
+.practiceAreaAnd7,
+.practiceAreaAnd8,
+.practiceAreaAnd9 {
+  top: 2107px;
+  left: 966px;
+}
+.practiceAreaAnd10,
+.practiceAreaAnd6,
+.practiceAreaAnd7,
+.practiceAreaAnd8,
+.practiceAreaAnd9 {
+  top: 2458px;
+  left: 965px;
+}
+.practiceAreaAnd10,
+.practiceAreaAnd7,
+.practiceAreaAnd8,
+.practiceAreaAnd9 {
+  top: 2826px;
+  left: 966px;
+}
+.practiceAreaAnd10,
+.practiceAreaAnd8,
+.practiceAreaAnd9 {
+  top: 3371px;
+}
+.practiceAreaAnd10,
+.practiceAreaAnd9 {
+  top: 3770px;
+  left: 978px;
+}
+.practiceAreaAnd10 {
+  top: 4168px;
+}
+.chequeBounceCriminal,
+.chequeBounceCriminal1,
+.chequeBounceCriminal2,
+.chequeBounceCriminal3,
+.chequeBounceCriminal4 {
+  position: absolute;
+  top: 340px;
+  left: 947px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-weight: 300;
+  width: 497px;
+  height: 28px;
+}
+.chequeBounceCriminal1,
+.chequeBounceCriminal2,
+.chequeBounceCriminal3,
+.chequeBounceCriminal4 {
+  top: 651px;
+}
+.chequeBounceCriminal2,
+.chequeBounceCriminal3,
+.chequeBounceCriminal4 {
+  top: 1014px;
+  left: 930px;
+}
+.chequeBounceCriminal3,
+.chequeBounceCriminal4 {
+  top: 1355px;
+  left: 923px;
+}
+.chequeBounceCriminal4 {
+  top: 1772px;
+  left: 908px;
+}
+.chequeBounceCriminal10,
+.chequeBounceCriminal5,
+.chequeBounceCriminal6,
+.chequeBounceCriminal7,
+.chequeBounceCriminal8,
+.chequeBounceCriminal9 {
+  position: absolute;
+  top: 2149px;
+  left: 908px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-weight: 300;
+  width: 497px;
+  height: 28px;
+}
+.chequeBounceCriminal10,
+.chequeBounceCriminal6,
+.chequeBounceCriminal7,
+.chequeBounceCriminal8,
+.chequeBounceCriminal9 {
+  top: 2510px;
+}
+.chequeBounceCriminal10,
+.chequeBounceCriminal7,
+.chequeBounceCriminal8,
+.chequeBounceCriminal9 {
+  top: 2877px;
+}
+.chequeBounceCriminal10,
+.chequeBounceCriminal8,
+.chequeBounceCriminal9 {
+  top: 3422px;
+  left: 921px;
+}
+.chequeBounceCriminal10,
+.chequeBounceCriminal9 {
+  top: 3818px;
+}
+.chequeBounceCriminal10 {
+  top: 4225px;
+  left: 908px;
+}
+.lawyerPageChild {
+  top: 400px;
+  left: 954px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray);
+  border: 1px solid var(--color-snow-200);
+  box-sizing: border-box;
+}
+.groupChild,
+.lawyerPageChild,
+.lawyerPageInner {
+  position: absolute;
+  width: 409px;
+  height: 66px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray);
+  border: 1px solid var(--color-snow-200);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.lawyerPageInner {
+  top: 704px;
+  left: 954px;
+}
+.groupButton,
+.lawyerPageInner,
+.lawyerPageInner1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+}
+.groupButton {
+  position: absolute;
+  top: 1067px;
+  left: 954px;
+  width: 409px;
+  height: 66px;
+}
+.lawyerPageInner1 {
+  top: 1425px;
+  left: 952px;
+}
+.lawyerPageInner1,
+.lawyerPageInner2,
+.rectangleWrapper {
+  position: absolute;
+  width: 409px;
+  height: 66px;
+}
+.lawyerPageInner2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1819px;
+  left: 947px;
+}
+.rectangleWrapper {
+  top: 0;
+  left: 0;
+}
+.lawyerPageInner3,
+.lawyerPageInner4,
+.lawyerPageInner5,
+.lawyerPageInner6,
+.lawyerPageInner7,
+.lawyerPageInner8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 2187px;
+  left: 947px;
+  width: 409px;
+  height: 66px;
+}
+.lawyerPageInner4,
+.lawyerPageInner5,
+.lawyerPageInner6,
+.lawyerPageInner7,
+.lawyerPageInner8 {
+  top: 2561px;
+  left: 942px;
+}
+.lawyerPageInner5,
+.lawyerPageInner6,
+.lawyerPageInner7,
+.lawyerPageInner8 {
+  top: 2927px;
+  left: 947px;
+}
+.lawyerPageInner6,
+.lawyerPageInner7,
+.lawyerPageInner8 {
+  top: 3472px;
+  left: 940px;
+}
+.lawyerPageInner7,
+.lawyerPageInner8 {
+  top: 3868px;
+}
+.lawyerPageInner8 {
+  top: 4268px;
+}
+.appointed,
+.request,
+.request1 {
+  position: absolute;
+  top: 404px;
+  left: 1063px;
+  font-weight: 500;
+  display: inline-block;
+  width: 221px;
+  height: 46px;
+}
+.request,
+.request1 {
+  top: 712px;
+  left: 1085px;
+  height: 53px;
+}
+.request1 {
+  top: 1075px;
+}
+.request2,
+.request3,
+.request4,
+.request5,
+.request6,
+.request7,
+.request8,
+.request9 {
+  position: absolute;
+  top: 1431px;
+  left: 1089px;
+  font-weight: 500;
+  display: inline-block;
+  width: 221px;
+  height: 53px;
+}
+.request3,
+.request4,
+.request5,
+.request6,
+.request7,
+.request8,
+.request9 {
+  top: 1825px;
+  left: 1073px;
+}
+.request4,
+.request5,
+.request6,
+.request7,
+.request8,
+.request9 {
+  top: 2196px;
+}
+.request5,
+.request6,
+.request7,
+.request8,
+.request9 {
+  top: 2567px;
+  left: 1081px;
+}
+.request6,
+.request7,
+.request8,
+.request9 {
+  top: 2933px;
+  left: 1073px;
+}
+.request7,
+.request8,
+.request9 {
+  top: 3478px;
+}
+.request8,
+.request9 {
+  top: 3874px;
+}
+.request9 {
+  top: 4268px;
+  left: 1061px;
+}
+.materialSymbolsstarHalfIcon {
+  position: absolute;
+  top: 902px;
+  left: 1124px;
+  width: 52px;
+  height: 52px;
+  overflow: hidden;
+}
+.materialSymbolsstarHalf,
+.materialSymbolsstarHalfIcon1,
+.vectorIcon66 {
+  position: absolute;
+  top: 1675px;
+  left: 1115px;
+  width: 47px;
+  height: 49px;
+  overflow: hidden;
+}
+.materialSymbolsstarHalf,
+.vectorIcon66 {
+  top: 2060px;
+  left: 1137px;
+}
+.vectorIcon66 {
+  height: 0.83%;
+  width: 2.59%;
+  top: 44.35%;
+  right: 23.66%;
+  bottom: 54.82%;
+  left: 73.74%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.lawyerPageItem {
+  position: absolute;
+  top: 157px;
+  left: 67px;
+  border-radius: var(--br-31xl);
+  border: 3px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 1377px;
+  height: 345px;
+  mix-blend-mode: normal;
+}
+.lawyerPageChild1,
+.lawyerPageChild10,
+.lawyerPageChild2,
+.lawyerPageChild3,
+.lawyerPageChild4,
+.lawyerPageChild5,
+.lawyerPageChild6,
+.lawyerPageChild7,
+.lawyerPageChild8,
+.lawyerPageChild9 {
+  position: absolute;
+  top: 518px;
+  left: 67px;
+  border-radius: var(--br-31xl);
+  border: 3px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 1377px;
+  height: 345px;
+  mix-blend-mode: normal;
+}
+.lawyerPageChild10,
+.lawyerPageChild2,
+.lawyerPageChild3,
+.lawyerPageChild4,
+.lawyerPageChild5,
+.lawyerPageChild6,
+.lawyerPageChild7,
+.lawyerPageChild8,
+.lawyerPageChild9 {
+  top: 879px;
+}
+.lawyerPageChild10,
+.lawyerPageChild3,
+.lawyerPageChild4,
+.lawyerPageChild5,
+.lawyerPageChild6,
+.lawyerPageChild7,
+.lawyerPageChild8,
+.lawyerPageChild9 {
+  top: 1240px;
+}
+.lawyerPageChild10,
+.lawyerPageChild4,
+.lawyerPageChild5,
+.lawyerPageChild6,
+.lawyerPageChild7,
+.lawyerPageChild8,
+.lawyerPageChild9 {
+  top: 1601px;
+}
+.lawyerPageChild10,
+.lawyerPageChild5,
+.lawyerPageChild6,
+.lawyerPageChild7,
+.lawyerPageChild8,
+.lawyerPageChild9 {
+  top: 1962px;
+}
+.lawyerPageChild10,
+.lawyerPageChild6,
+.lawyerPageChild7,
+.lawyerPageChild8,
+.lawyerPageChild9 {
+  top: 2323px;
+}
+.lawyerPageChild10,
+.lawyerPageChild7,
+.lawyerPageChild8,
+.lawyerPageChild9 {
+  top: 2684px;
+}
+.lawyerPageChild10,
+.lawyerPageChild8,
+.lawyerPageChild9 {
+  top: 3237px;
+}
+.lawyerPageChild10,
+.lawyerPageChild9 {
+  top: 3642px;
+}
+.lawyerPageChild10 {
+  top: 4027px;
+}
+.yearsExperience {
+  position: absolute;
+  top: 393px;
+  left: 361px;
+  font-weight: 500;
+  display: inline-block;
+  width: 379px;
+  height: 53px;
+}
+.advocateVivekSharma1Icon {
+  position: absolute;
+  top: 916px;
+  left: 109px;
+  width: 170px;
+  height: 232px;
+  object-fit: cover;
+}
+.yearsExperience1,
+.yearsExperience2 {
+  position: absolute;
+  top: 720px;
+  left: 361px;
+  font-weight: 500;
+  display: inline-block;
+  width: 379px;
+  height: 53px;
+}
+.yearsExperience2 {
+  top: 1067px;
+}
+.yearsExperience3 {
+  top: 1430px;
+  left: 373px;
+  width: 379px;
+  height: 53px;
+}
+.lawyers,
+.yearsExperience3,
+.yearsExperience4,
+.yearsExperience5 {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.lawyers {
+  top: 56px;
+  left: 634px;
+  font-size: var(--font-size-29xl);
+  width: 211px;
+  height: 63px;
+}
+.yearsExperience4,
+.yearsExperience5 {
+  top: 1832px;
+  left: 373px;
+  width: 379px;
+  height: 53px;
+}
+.yearsExperience5 {
+  top: 2221px;
+}
+.newlyJoinedTo,
+.yearsExperience10,
+.yearsExperience6,
+.yearsExperience7,
+.yearsExperience8,
+.yearsExperience9 {
+  position: absolute;
+  top: 2571px;
+  left: 373px;
+  font-weight: 500;
+  display: inline-block;
+  width: 379px;
+  height: 53px;
+}
+.newlyJoinedTo,
+.yearsExperience10,
+.yearsExperience7,
+.yearsExperience8,
+.yearsExperience9 {
+  top: 2933px;
+}
+.newlyJoinedTo,
+.yearsExperience10,
+.yearsExperience8,
+.yearsExperience9 {
+  top: 3483px;
+  left: 377px;
+}
+.newlyJoinedTo,
+.yearsExperience10,
+.yearsExperience9 {
+  top: 3858px;
+  left: 373px;
+}
+.newlyJoinedTo,
+.yearsExperience10 {
+  top: 4269px;
+  left: 377px;
+}
+.newlyJoinedTo {
+  top: 3108px;
+  left: 90px;
+  width: 550px;
+  height: 58px;
+}
+.lawratocom {
+  color: var(--color-mediumslateblue);
+}
+.aboveDetailsHaveContainer,
+.libertyloomAllRights {
+  position: absolute;
+  top: 4422px;
+  left: 306px;
+  font-weight: 500;
+  display: inline-block;
+  width: 940px;
+  height: 51px;
+}
+.libertyloomAllRights {
+  top: 4532px;
+  left: 468px;
+  font-size: var(--font-size-17xl);
+  width: 778px;
+  height: 68px;
+}
+.advocateJugendraSingh1Icon,
+.advocateMamtaSabberwal1Icon {
+  position: absolute;
+  top: 1277px;
+  left: 91px;
+  width: 198px;
+  height: 249px;
+  object-fit: cover;
+}
+.advocateMamtaSabberwal1Icon {
+  top: 1658px;
+  left: 80px;
+  width: 201px;
+  height: 236px;
+}
+.advocatePatrikaGupta1Icon,
+.advocateSudeshKumar1Icon {
+  position: absolute;
+  top: 2035px;
+  left: 83px;
+  width: 206px;
+  height: 234px;
+  object-fit: cover;
+}
+.advocateSudeshKumar1Icon {
+  top: 2379px;
+  left: 89px;
+  height: 245px;
+}
+.advocateDarshana1Icon,
+.advocateSnehlataChaudhary1Icon {
+  position: absolute;
+  top: 2723px;
+  left: 91px;
+  width: 217px;
+  height: 265px;
+  object-fit: cover;
+}
+.advocateSnehlataChaudhary1Icon {
+  top: 3276px;
+  left: 83px;
+  width: 225px;
+  height: 247px;
+}
+.advocateAfreenFatima1Icon,
+.advocateVineetKumarSrivastaIcon {
+  position: absolute;
+  top: 3678px;
+  left: 83px;
+  width: 225px;
+  height: 248px;
+  object-fit: cover;
+}
+.advocateAfreenFatima1Icon {
+  top: 4064px;
+  width: 217px;
+  height: 247px;
+}
+.advocateAnilKumar,
+.advocateAnilKumar1 {
+  position: absolute;
+  top: 199px;
+  left: 318px;
+  font-weight: 500;
+  display: inline-block;
+  width: 587px;
+  height: 60px;
+}
+.advocateAnilKumar1 {
+  top: 531px;
+}
+.advocateJugendraSingh,
+.advocateMamtaGandhi,
+.advocatePatrikaGupta,
+.advocateSudeshKumar,
+.advocateVivekSharma {
+  position: absolute;
+  top: 897px;
+  left: 318px;
+  font-weight: 500;
+  display: inline-block;
+  width: 587px;
+  height: 60px;
+}
+.advocateJugendraSingh,
+.advocateMamtaGandhi,
+.advocatePatrikaGupta,
+.advocateSudeshKumar {
+  top: 1262px;
+}
+.advocateMamtaGandhi,
+.advocatePatrikaGupta,
+.advocateSudeshKumar {
+  top: 1658px;
+}
+.advocatePatrikaGupta,
+.advocateSudeshKumar {
+  top: 2035px;
+}
+.advocateSudeshKumar {
+  top: 2385px;
+  left: 308px;
+}
+.advocateAfreenFatima,
+.advocateDarshana,
+.advocateSnehlataChaudhary,
+.advocateVineetKumar {
+  position: absolute;
+  top: 2735px;
+  left: 318px;
+  font-weight: 500;
+  display: inline-block;
+  width: 587px;
+  height: 60px;
+}
+.advocateAfreenFatima,
+.advocateSnehlataChaudhary,
+.advocateVineetKumar {
+  top: 3276px;
+  left: 350px;
+}
+.advocateAfreenFatima,
+.advocateVineetKumar {
+  top: 3678px;
+  left: 334px;
+}
+.advocateAfreenFatima {
+  top: 4080px;
+}
+.vectorIcon67,
+.vectorIcon68 {
+  position: absolute;
+  height: 54.22%;
+  width: 54.2%;
+  top: 22.97%;
+  right: 22.82%;
+  bottom: 22.81%;
+  left: 22.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon68 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 1.37%;
+  width: 4.4%;
+  top: 1.2%;
+  right: 4.85%;
+  bottom: 97.42%;
+  left: 90.74%;
+}
+.mama21,
+.papa1Icon {
+  position: absolute;
+  top: 216px;
+  left: 100px;
+  width: 180px;
+  height: 234px;
+  object-fit: cover;
+}
+.mama21 {
+  top: 570px;
+  left: 92px;
+  width: 195px;
+  height: 221px;
+}
+.lawyerPage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4656px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-exo);
+}

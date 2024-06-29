@@ -1,0 +1,242 @@
+.startingIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 982px;
+  object-fit: cover;
+}
+.fluentEmojiHighContrastcroIcon {
+  position: absolute;
+  top: 427px;
+  left: 548px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.tryAgain {
+  position: absolute;
+  top: 415px;
+  left: 594px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 350px;
+  height: 47px;
+}
+.jailEmbelem1,
+.jailer1Icon {
+  position: absolute;
+  top: 146px;
+  left: 1176px;
+  width: 257px;
+  height: 305px;
+  object-fit: cover;
+}
+.jailEmbelem1 {
+  top: 244px;
+  left: 64px;
+  width: 405px;
+  height: 415px;
+}
+.jailerHomepageChild {
+  position: absolute;
+  top: 107px;
+  left: 57px;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro-200);
+  width: 412px;
+  height: 99px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 75.05%;
+  width: 75.06%;
+  top: 12.53%;
+  right: 12.47%;
+  bottom: 12.42%;
+  left: 12.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.input,
+.materialSymbolssearch {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.materialSymbolssearch {
+  cursor: pointer;
+  padding: 0;
+  top: 107px;
+  left: 349px;
+  width: 89px;
+  height: 95px;
+  overflow: hidden;
+}
+.input {
+  outline: 0;
+  font-weight: 500;
+  font-family: var(--font-exo);
+  font-size: var(--font-size-29xl);
+  top: 128px;
+  left: 148px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 196px;
+  height: 53px;
+}
+.jailerHomepageChild1,
+.jailerHomepageChild2,
+.jailerHomepageChild3,
+.jailerHomepageInner,
+.jailerHomepageItem,
+.rectangleButton {
+  cursor: pointer;
+  border: 1px solid var(--color-snow-100);
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 897px;
+  left: 39px;
+  border-radius: var(--br-31xl);
+  box-sizing: border-box;
+  width: 212px;
+  height: 56px;
+}
+.jailerHomepageChild1,
+.jailerHomepageChild2,
+.jailerHomepageChild3,
+.jailerHomepageInner,
+.rectangleButton {
+  left: 273px;
+}
+.jailerHomepageChild1,
+.jailerHomepageChild2,
+.jailerHomepageChild3,
+.rectangleButton {
+  left: 507px;
+}
+.jailerHomepageChild1,
+.jailerHomepageChild2,
+.jailerHomepageChild3 {
+  left: 741px;
+}
+.jailerHomepageChild2,
+.jailerHomepageChild3 {
+  left: 975px;
+}
+.jailerHomepageChild3 {
+  left: 1209px;
+}
+.healthSupport,
+.lawyers {
+  position: absolute;
+  top: 910px;
+  left: 58px;
+  display: inline-block;
+  width: 173px;
+  height: 30px;
+}
+.lawyers {
+  left: 327px;
+  width: 103px;
+}
+.caseInformation,
+.communication,
+.documents,
+.skillDevelopment {
+  position: absolute;
+  top: 910px;
+  left: 523px;
+  display: inline-block;
+  width: 180px;
+  height: 30px;
+}
+.caseInformation,
+.documents,
+.skillDevelopment {
+  left: 748px;
+  width: 200px;
+}
+.caseInformation,
+.documents {
+  left: 981px;
+}
+.documents {
+  left: 1247px;
+  width: 155px;
+}
+.mdinumber1Icon,
+.mdinumber1Icon1 {
+  position: absolute;
+  top: 863px;
+  left: 197px;
+  width: 49px;
+  height: 47px;
+  overflow: hidden;
+}
+.mdinumber1Icon1 {
+  left: 665px;
+}
+.name1 {
+  font-size: var(--font-size-29xl);
+}
+.span {
+  font-size: var(--font-size-5xl);
+}
+.name {
+  font-family: var(--font-exo);
+}
+.nameMrTanvirSingh {
+  margin: 0;
+}
+.nameMrContainer {
+  position: absolute;
+  top: 158px;
+  left: 667px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 480px;
+  height: 672px;
+  font-size: var(--font-size-21xl);
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 3.53%;
+  width: 2.39%;
+  top: 4.18%;
+  right: 2.84%;
+  bottom: 92.29%;
+  left: 94.78%;
+}
+.jailerHomepage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-exo);
+}

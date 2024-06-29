@@ -1,0 +1,133 @@
+.startingIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 3346px;
+  object-fit: cover;
+}
+.application,
+.fir,
+.legalDocuments,
+.warrent {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.legalDocuments {
+  top: 126px;
+  left: 630px;
+  width: 325px;
+  height: 56px;
+}
+.application,
+.fir,
+.warrent {
+  left: 214px;
+}
+.fir {
+  top: 182px;
+  white-space: pre-wrap;
+  width: 148px;
+  height: 44px;
+}
+.application,
+.warrent {
+  top: 844px;
+  width: 221px;
+  height: 73px;
+}
+.warrent {
+  top: 1542px;
+  left: 252px;
+  width: 220px;
+  height: 74px;
+}
+.aadharCard1 {
+  margin: 0;
+}
+.aadharCard {
+  position: absolute;
+  top: 2512px;
+  left: 240px;
+  font-weight: 500;
+  display: inline-block;
+  width: 221px;
+  height: 74px;
+}
+.fir1Icon {
+  position: absolute;
+  top: 257px;
+  left: 606px;
+  width: 372px;
+  height: 537px;
+  object-fit: cover;
+}
+.aadharCardVishal1,
+.application1Icon,
+.warrent11 {
+  position: absolute;
+  top: 884px;
+  left: 598px;
+  width: 388px;
+  height: 635px;
+  object-fit: cover;
+}
+.aadharCardVishal1,
+.warrent11 {
+  top: 1579px;
+  left: 566px;
+  width: 484px;
+  height: 743px;
+}
+.aadharCardVishal1 {
+  top: 2549px;
+  left: 524px;
+  width: 773px;
+  height: 557px;
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 54.22%;
+  width: 54.2%;
+  top: 22.97%;
+  right: 22.82%;
+  bottom: 22.81%;
+  left: 22.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 1.91%;
+  width: 4.4%;
+  top: 2.69%;
+  right: 5.25%;
+  bottom: 95.4%;
+  left: 90.34%;
+}
+.documentPage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3346px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-exo);
+}

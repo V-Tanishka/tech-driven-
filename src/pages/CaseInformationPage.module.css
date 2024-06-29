@@ -1,0 +1,98 @@
+.startingIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 2562px;
+  object-fit: cover;
+}
+.b,
+.case {
+  font-family: var(--font-exo);
+}
+.case {
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+}
+.b {
+  font-size: var(--font-size-13xl);
+}
+.caseInformation {
+  margin: 0;
+}
+.caseNumber {
+  font-weight: 900;
+}
+.i {
+  font-weight: 300;
+  font-family: var(--font-exo);
+}
+.caseNumber159,
+.court {
+  font-size: var(--font-size-17xl);
+}
+.caseNumber159 {
+  margin: 0;
+}
+.court {
+  font-weight: 900;
+  font-family: var(--font-exo);
+}
+.allahabadHighCourt {
+  font-weight: 300;
+}
+.briefOverview {
+  margin: 0;
+  font-size: var(--font-size-17xl);
+  font-weight: 900;
+}
+.ramPrakash {
+  font-family: var(--font-exo);
+}
+.caseInformationCaseContainer {
+  position: absolute;
+  top: 113px;
+  left: 69px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1374px;
+  height: 2409px;
+}
+.groupIcon,
+.groupWrapper {
+  cursor: pointer;
+  position: absolute;
+}
+.groupIcon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupWrapper {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 2.5%;
+  width: 4.4%;
+  top: 3.16%;
+  right: 4.59%;
+  bottom: 94.34%;
+  left: 91.01%;
+}
+.caseInformationPage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2562px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-exo);
+}

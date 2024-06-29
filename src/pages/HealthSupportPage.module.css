@@ -1,0 +1,1851 @@
+.startingIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 4656px;
+  object-fit: cover;
+}
+.vectorIcon,
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.05%;
+  top: 6.46%;
+  right: 77.18%;
+  bottom: 92.7%;
+  left: 20.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3 {
+  width: 2.12%;
+  top: 13.55%;
+  right: 77.12%;
+  bottom: 85.61%;
+}
+.vectorIcon2,
+.vectorIcon3 {
+  top: 21.07%;
+  right: 76.98%;
+  bottom: 78.09%;
+  left: 20.9%;
+}
+.vectorIcon3 {
+  top: 29.36%;
+  right: 76.72%;
+  bottom: 69.8%;
+  left: 21.16%;
+}
+.vectorIcon10,
+.vectorIcon4,
+.vectorIcon5,
+.vectorIcon6,
+.vectorIcon7,
+.vectorIcon8,
+.vectorIcon9 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.12%;
+  top: 37.61%;
+  right: 77.12%;
+  bottom: 61.55%;
+  left: 20.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon10,
+.vectorIcon5,
+.vectorIcon6,
+.vectorIcon7,
+.vectorIcon8,
+.vectorIcon9 {
+  top: 45.27%;
+  right: 77.25%;
+  bottom: 53.89%;
+  left: 20.63%;
+}
+.vectorIcon10,
+.vectorIcon6,
+.vectorIcon7,
+.vectorIcon8,
+.vectorIcon9 {
+  top: 53.07%;
+  right: 77.38%;
+  bottom: 46.09%;
+  left: 20.5%;
+}
+.vectorIcon10,
+.vectorIcon7,
+.vectorIcon8,
+.vectorIcon9 {
+  top: 60.89%;
+  right: 77.12%;
+  bottom: 38.27%;
+  left: 20.77%;
+}
+.vectorIcon10,
+.vectorIcon8,
+.vectorIcon9 {
+  top: 72.51%;
+  right: 76.59%;
+  bottom: 26.65%;
+  left: 21.3%;
+}
+.vectorIcon10,
+.vectorIcon9 {
+  top: 81.14%;
+  bottom: 18.02%;
+}
+.vectorIcon10 {
+  width: 1.92%;
+  top: 89.6%;
+  right: 76.72%;
+  bottom: 9.56%;
+  left: 21.36%;
+}
+.atlantaHospitalGhaziabad,
+.vaishaliGhaziabad,
+.vaishaliGhaziabad1,
+.vasundharaGhaziabad {
+  position: absolute;
+  top: 301px;
+  left: 355px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 405px;
+  height: 49px;
+}
+.atlantaHospitalGhaziabad,
+.vaishaliGhaziabad1,
+.vasundharaGhaziabad {
+  top: 626px;
+}
+.atlantaHospitalGhaziabad,
+.vaishaliGhaziabad1 {
+  top: 981px;
+}
+.vaishaliGhaziabad1 {
+  top: 1365px;
+  left: 371px;
+}
+.greaterNoida,
+.indirapuramGhaziabad,
+.newDelhi,
+.pandavNagarGhaziabad,
+.preetViharDelhi,
+.sector23Ghaziabad,
+.vaishaliGhaziabad2 {
+  position: absolute;
+  top: 1751px;
+  left: 367px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 405px;
+  height: 49px;
+}
+.greaterNoida,
+.indirapuramGhaziabad,
+.newDelhi,
+.pandavNagarGhaziabad,
+.sector23Ghaziabad,
+.vaishaliGhaziabad2 {
+  top: 2104px;
+}
+.indirapuramGhaziabad,
+.newDelhi,
+.pandavNagarGhaziabad,
+.sector23Ghaziabad,
+.vaishaliGhaziabad2 {
+  top: 2471px;
+  left: 354px;
+}
+.indirapuramGhaziabad,
+.pandavNagarGhaziabad,
+.sector23Ghaziabad,
+.vaishaliGhaziabad2 {
+  top: 2835px;
+  left: 367px;
+}
+.indirapuramGhaziabad,
+.pandavNagarGhaziabad,
+.vaishaliGhaziabad2 {
+  top: 3371px;
+}
+.indirapuramGhaziabad,
+.pandavNagarGhaziabad {
+  top: 3773px;
+}
+.pandavNagarGhaziabad {
+  top: 4170px;
+  width: 457px;
+}
+.vectorIcon11,
+.vectorIcon12,
+.vectorIcon13 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.78%;
+  top: 4.64%;
+  right: 34.99%;
+  bottom: 94.52%;
+  left: 62.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon12,
+.vectorIcon13 {
+  top: 11.73%;
+  bottom: 87.44%;
+}
+.vectorIcon13 {
+  top: 19.35%;
+  bottom: 79.81%;
+}
+.vectorIcon14,
+.vectorIcon15,
+.vectorIcon16,
+.vectorIcon17,
+.vectorIcon18,
+.vectorIcon19,
+.vectorIcon20,
+.vectorIcon21,
+.vectorIcon22 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.78%;
+  top: 27.15%;
+  right: 34.99%;
+  bottom: 72.01%;
+  left: 62.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon15,
+.vectorIcon16,
+.vectorIcon17,
+.vectorIcon18,
+.vectorIcon19,
+.vectorIcon20,
+.vectorIcon21,
+.vectorIcon22 {
+  top: 34.56%;
+  bottom: 64.6%;
+}
+.vectorIcon16,
+.vectorIcon17,
+.vectorIcon18,
+.vectorIcon19,
+.vectorIcon20,
+.vectorIcon21,
+.vectorIcon22 {
+  top: 51.52%;
+  bottom: 47.64%;
+}
+.vectorIcon17,
+.vectorIcon18,
+.vectorIcon19,
+.vectorIcon20,
+.vectorIcon21,
+.vectorIcon22 {
+  top: 59.45%;
+  bottom: 39.71%;
+}
+.vectorIcon18,
+.vectorIcon19,
+.vectorIcon20,
+.vectorIcon21,
+.vectorIcon22 {
+  top: 71.16%;
+  bottom: 28.01%;
+}
+.vectorIcon19,
+.vectorIcon20,
+.vectorIcon21,
+.vectorIcon22 {
+  top: 79.7%;
+  bottom: 19.46%;
+}
+.vectorIcon20,
+.vectorIcon21,
+.vectorIcon22 {
+  top: 88.21%;
+  bottom: 10.95%;
+}
+.vectorIcon21,
+.vectorIcon22 {
+  right: 32.21%;
+  left: 65.01%;
+}
+.vectorIcon22 {
+  right: 29.43%;
+  left: 67.79%;
+}
+.vectorIcon23,
+.vectorIcon24,
+.vectorIcon25,
+.vectorIcon26,
+.vectorIcon27,
+.vectorIcon28,
+.vectorIcon29 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.78%;
+  top: 79.7%;
+  right: 32.21%;
+  bottom: 19.46%;
+  left: 65.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon24,
+.vectorIcon25,
+.vectorIcon26,
+.vectorIcon27,
+.vectorIcon28,
+.vectorIcon29 {
+  top: 79.73%;
+  right: 29.43%;
+  bottom: 19.44%;
+  left: 67.79%;
+}
+.vectorIcon25,
+.vectorIcon26,
+.vectorIcon27,
+.vectorIcon28,
+.vectorIcon29 {
+  top: 79.75%;
+  right: 26.65%;
+  bottom: 19.42%;
+  left: 70.57%;
+}
+.vectorIcon26,
+.vectorIcon27,
+.vectorIcon28,
+.vectorIcon29 {
+  top: 71.16%;
+  right: 32.21%;
+  bottom: 28.01%;
+  left: 65.01%;
+}
+.vectorIcon27,
+.vectorIcon28,
+.vectorIcon29 {
+  right: 29.43%;
+  left: 67.79%;
+}
+.vectorIcon28,
+.vectorIcon29 {
+  right: 26.65%;
+  left: 70.57%;
+}
+.vectorIcon29 {
+  top: 59.45%;
+  right: 32.21%;
+  bottom: 39.71%;
+  left: 65.01%;
+}
+.vectorIcon30,
+.vectorIcon31,
+.vectorIcon32,
+.vectorIcon33,
+.vectorIcon34,
+.vectorIcon35,
+.vectorIcon36,
+.vectorIcon37,
+.vectorIcon38 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.78%;
+  top: 59.45%;
+  right: 29.43%;
+  bottom: 39.71%;
+  left: 67.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon31,
+.vectorIcon32,
+.vectorIcon33,
+.vectorIcon34,
+.vectorIcon35,
+.vectorIcon36,
+.vectorIcon37,
+.vectorIcon38 {
+  right: 26.65%;
+  left: 70.57%;
+}
+.vectorIcon32,
+.vectorIcon33,
+.vectorIcon34,
+.vectorIcon35,
+.vectorIcon36,
+.vectorIcon37,
+.vectorIcon38 {
+  right: 23.88%;
+  left: 73.35%;
+}
+.vectorIcon33,
+.vectorIcon34,
+.vectorIcon35,
+.vectorIcon36,
+.vectorIcon37,
+.vectorIcon38 {
+  top: 51.52%;
+  right: 32.21%;
+  bottom: 47.64%;
+  left: 65.01%;
+}
+.vectorIcon34,
+.vectorIcon35,
+.vectorIcon36,
+.vectorIcon37,
+.vectorIcon38 {
+  right: 29.43%;
+  left: 67.79%;
+}
+.vectorIcon35,
+.vectorIcon36,
+.vectorIcon37,
+.vectorIcon38 {
+  right: 26.65%;
+  left: 70.57%;
+}
+.vectorIcon36,
+.vectorIcon37,
+.vectorIcon38 {
+  top: 44.2%;
+  right: 32.21%;
+  bottom: 54.96%;
+  left: 65.01%;
+}
+.vectorIcon37,
+.vectorIcon38 {
+  right: 29.43%;
+  left: 67.79%;
+}
+.vectorIcon38 {
+  right: 26.65%;
+  left: 70.57%;
+}
+.vectorIcon39,
+.vectorIcon40,
+.vectorIcon41,
+.vectorIcon42,
+.vectorIcon43,
+.vectorIcon44,
+.vectorIcon45,
+.vectorIcon46,
+.vectorIcon47 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.78%;
+  top: 34.6%;
+  right: 32.21%;
+  bottom: 64.56%;
+  left: 65.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon40,
+.vectorIcon41,
+.vectorIcon42,
+.vectorIcon43,
+.vectorIcon44,
+.vectorIcon45,
+.vectorIcon46,
+.vectorIcon47 {
+  right: 29.43%;
+  left: 67.79%;
+}
+.vectorIcon41,
+.vectorIcon42,
+.vectorIcon43,
+.vectorIcon44,
+.vectorIcon45,
+.vectorIcon46,
+.vectorIcon47 {
+  right: 26.39%;
+  left: 70.83%;
+}
+.vectorIcon42,
+.vectorIcon43,
+.vectorIcon44,
+.vectorIcon45,
+.vectorIcon46,
+.vectorIcon47 {
+  top: 27.15%;
+  right: 31.81%;
+  bottom: 72.01%;
+  left: 65.41%;
+}
+.vectorIcon43,
+.vectorIcon44,
+.vectorIcon45,
+.vectorIcon46,
+.vectorIcon47 {
+  right: 28.64%;
+  left: 68.58%;
+}
+.vectorIcon44,
+.vectorIcon45,
+.vectorIcon46,
+.vectorIcon47 {
+  right: 25.46%;
+  left: 71.76%;
+}
+.vectorIcon45,
+.vectorIcon46,
+.vectorIcon47 {
+  top: 19.35%;
+  right: 32.01%;
+  bottom: 79.81%;
+  left: 65.21%;
+}
+.vectorIcon46,
+.vectorIcon47 {
+  right: 29.03%;
+  left: 68.19%;
+}
+.vectorIcon47 {
+  right: 26.06%;
+  left: 71.16%;
+}
+.vectorIcon48,
+.vectorIcon49,
+.vectorIcon50,
+.vectorIcon51,
+.vectorIcon52,
+.vectorIcon53,
+.vectorIcon54,
+.vectorIcon55 {
+  position: absolute;
+  height: 0.84%;
+  width: 2.78%;
+  top: 11.73%;
+  right: 32.21%;
+  bottom: 87.44%;
+  left: 65.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon49,
+.vectorIcon50,
+.vectorIcon51,
+.vectorIcon52,
+.vectorIcon53,
+.vectorIcon54,
+.vectorIcon55 {
+  right: 29.43%;
+  left: 67.79%;
+}
+.vectorIcon50,
+.vectorIcon51,
+.vectorIcon52,
+.vectorIcon53,
+.vectorIcon54,
+.vectorIcon55 {
+  right: 26.65%;
+  left: 70.57%;
+}
+.vectorIcon51,
+.vectorIcon52,
+.vectorIcon53,
+.vectorIcon54,
+.vectorIcon55 {
+  right: 23.88%;
+  left: 73.35%;
+}
+.vectorIcon52,
+.vectorIcon53,
+.vectorIcon54,
+.vectorIcon55 {
+  top: 4.64%;
+  right: 32.01%;
+  bottom: 94.52%;
+  left: 65.21%;
+}
+.vectorIcon53,
+.vectorIcon54,
+.vectorIcon55 {
+  right: 29.23%;
+  left: 67.99%;
+}
+.vectorIcon54,
+.vectorIcon55 {
+  right: 26.26%;
+  left: 70.97%;
+}
+.vectorIcon55 {
+  right: 23.28%;
+  left: 73.94%;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4 {
+  position: absolute;
+  top: 215px;
+  left: 1168px;
+  font-weight: 500;
+  display: inline-block;
+  width: 60px;
+  height: 44px;
+}
+.div1,
+.div2,
+.div3,
+.div4 {
+  top: 541px;
+}
+.div2,
+.div3,
+.div4 {
+  top: 899px;
+  left: 1173px;
+}
+.div3,
+.div4 {
+  top: 1259px;
+  left: 1166px;
+}
+.div4 {
+  top: 1608px;
+  left: 1160px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div5,
+.div6,
+.div7,
+.div8,
+.div9 {
+  position: absolute;
+  top: 2053px;
+  left: 1164px;
+  font-weight: 500;
+  display: inline-block;
+  width: 60px;
+  height: 44px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div6,
+.div7,
+.div8,
+.div9 {
+  top: 2396px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div7,
+.div8,
+.div9 {
+  top: 2766px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div8,
+.div9 {
+  top: 3311px;
+  left: 1166px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16,
+.div9 {
+  top: 3699px;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16 {
+  top: 4102px;
+}
+.div11,
+.div12,
+.div13,
+.div14,
+.div15,
+.div16 {
+  top: 211px;
+  left: 1231px;
+  font-size: var(--font-size-29xl);
+  width: 21px;
+  height: 64px;
+}
+.div12,
+.div13,
+.div14,
+.div15,
+.div16 {
+  top: 534px;
+  left: 1233px;
+}
+.div13,
+.div14,
+.div15,
+.div16 {
+  top: 892px;
+  left: 1232px;
+}
+.div14,
+.div15,
+.div16 {
+  top: 1604px;
+  left: 1222px;
+}
+.div15,
+.div16 {
+  top: 2049px;
+  left: 1230px;
+}
+.div16 {
+  top: 2392px;
+  left: 1229px;
+}
+.div17,
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  position: absolute;
+  top: 2761px;
+  left: 1230px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 21px;
+  height: 64px;
+}
+.div18,
+.div19,
+.div20,
+.div21,
+.div22,
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 3307px;
+  left: 1229px;
+}
+.div19,
+.div20,
+.div21,
+.div22,
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 3689px;
+}
+.div20,
+.div21,
+.div22,
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 4095px;
+}
+.div21,
+.div22,
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 1252px;
+  left: 1232px;
+}
+.div22,
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 207px;
+  left: 1252px;
+  width: 105px;
+  height: 51px;
+}
+.div23,
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 537px;
+}
+.div24,
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 896px;
+  left: 1253px;
+}
+.div25,
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 1255px;
+}
+.div26,
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 1605px;
+  left: 1247px;
+}
+.div27,
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 2049px;
+  left: 1246px;
+}
+.div28,
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 2396px;
+  left: 1245px;
+}
+.div29,
+.div30,
+.div31,
+.div32 {
+  top: 2761px;
+  left: 1246px;
+}
+.div30,
+.div31,
+.div32 {
+  top: 3307px;
+}
+.div31,
+.div32 {
+  top: 3691px;
+}
+.div32 {
+  top: 4095px;
+  left: 1240px;
+  width: 139px;
+}
+.mbbs,
+.mbbs1,
+.mbbs2,
+.mbbs3,
+.mbbs4,
+.mbbsDiplomaIn,
+.mbbsDnb,
+.mbbsMd,
+.mbbsMd1,
+.mbbsMd2,
+.mbbsMs {
+  position: absolute;
+  top: 291px;
+  left: 948px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 357px;
+  height: 42px;
+}
+.mbbs1,
+.mbbs2,
+.mbbs3,
+.mbbs4,
+.mbbsDiplomaIn,
+.mbbsDnb,
+.mbbsMd,
+.mbbsMd1,
+.mbbsMd2,
+.mbbsMs {
+  top: 598px;
+}
+.mbbs1,
+.mbbs2,
+.mbbs3,
+.mbbs4,
+.mbbsDiplomaIn,
+.mbbsDnb,
+.mbbsMd1,
+.mbbsMd2,
+.mbbsMs {
+  top: 956px;
+  left: 949px;
+}
+.mbbs2,
+.mbbs3,
+.mbbs4,
+.mbbsDiplomaIn,
+.mbbsDnb,
+.mbbsMd1,
+.mbbsMd2,
+.mbbsMs {
+  top: 1325px;
+  left: 945px;
+  width: 441px;
+}
+.mbbs2,
+.mbbs3,
+.mbbs4,
+.mbbsDiplomaIn,
+.mbbsDnb,
+.mbbsMd2,
+.mbbsMs {
+  top: 1669px;
+  left: 860px;
+  width: 591px;
+  height: 86px;
+}
+.mbbs2,
+.mbbs3,
+.mbbs4,
+.mbbsDnb,
+.mbbsMd2,
+.mbbsMs {
+  top: 2102px;
+  left: 848px;
+  width: 596px;
+  height: 42px;
+}
+.mbbs2,
+.mbbs3,
+.mbbs4,
+.mbbsMd2,
+.mbbsMs {
+  top: 2457px;
+  left: 1099px;
+  width: 108px;
+}
+.mbbs3,
+.mbbs4,
+.mbbsMd2,
+.mbbsMs {
+  top: 2819px;
+  left: 960px;
+  width: 357px;
+}
+.mbbs3,
+.mbbs4,
+.mbbsMs {
+  top: 3367px;
+  left: 1046px;
+  width: 170px;
+}
+.mbbs3,
+.mbbs4 {
+  top: 3766px;
+  left: 1111px;
+  width: 95px;
+}
+.mbbs4 {
+  top: 4169px;
+  left: 1067px;
+  width: 119px;
+}
+.generalPhysiciangeneralPrac {
+  margin: 0;
+}
+.generalPhysician,
+.generalPhysiciangeneralPracContainer,
+.internalMedicinegeneralPhysContainer {
+  position: absolute;
+  top: 334px;
+  left: 944px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-weight: 300;
+  width: 421px;
+  height: 31px;
+}
+.generalPhysician,
+.internalMedicinegeneralPhysContainer {
+  top: 651px;
+  left: 941px;
+  width: 398px;
+}
+.generalPhysician {
+  top: 1009px;
+  left: 950px;
+  width: 210px;
+  height: 28px;
+}
+.generalPhysician2,
+.generalPhysicianinternalMed,
+.internalMedicineconsultantPContainer,
+.pulmonologistgeneralPhysicia {
+  position: absolute;
+  top: 1382px;
+  left: 936px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-weight: 300;
+  width: 497px;
+  height: 63px;
+}
+.generalPhysician2,
+.generalPhysicianinternalMed,
+.pulmonologistgeneralPhysicia {
+  top: 1768px;
+  left: 935px;
+  height: 31px;
+}
+.generalPhysician2,
+.pulmonologistgeneralPhysicia {
+  top: 2155px;
+  left: 900px;
+  height: 95px;
+}
+.generalPhysician2 {
+  top: 2503px;
+  left: 1040px;
+  width: 215px;
+  height: 28px;
+}
+.generalPhysician3,
+.generalPhysician4,
+.generalPhysiciangeneralPracContainer1,
+.generalSurgeryGeneral {
+  position: absolute;
+  top: 2870px;
+  left: 1033px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  font-weight: 300;
+  width: 197px;
+  height: 28px;
+}
+.generalPhysician4,
+.generalPhysiciangeneralPracContainer1,
+.generalSurgeryGeneral {
+  top: 3415px;
+  left: 915px;
+  width: 497px;
+  height: 41px;
+}
+.generalPhysician4,
+.generalPhysiciangeneralPracContainer1 {
+  top: 3807px;
+  left: 941px;
+  height: 63px;
+}
+.generalPhysician4 {
+  top: 4215px;
+  left: 1019px;
+  width: 207px;
+  height: 28px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gray);
+  border: 1px solid var(--color-snow-200);
+  box-sizing: border-box;
+  width: 409px;
+  height: 66px;
+  cursor: pointer;
+}
+.groupButton,
+.healthSupportPageChild,
+.healthSupportPageInner,
+.healthSupportPageInner1,
+.healthSupportPageInner2,
+.healthSupportPageInner3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 393px;
+  left: 948px;
+  width: 409px;
+  height: 66px;
+}
+.groupButton,
+.healthSupportPageChild,
+.healthSupportPageInner1,
+.healthSupportPageInner2,
+.healthSupportPageInner3 {
+  top: 697px;
+}
+.groupButton,
+.healthSupportPageInner1,
+.healthSupportPageInner2,
+.healthSupportPageInner3 {
+  top: 1060px;
+}
+.healthSupportPageInner1,
+.healthSupportPageInner2,
+.healthSupportPageInner3 {
+  top: 1464px;
+  left: 941px;
+}
+.healthSupportPageInner2,
+.healthSupportPageInner3 {
+  top: 1834px;
+  left: 955px;
+}
+.healthSupportPageInner3 {
+  top: 2223px;
+  left: 941px;
+}
+.healthSupportPageInner4,
+.healthSupportPageInner5,
+.healthSupportPageInner6,
+.healthSupportPageInner7,
+.healthSupportPageInner8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 2554px;
+  left: 936px;
+  width: 409px;
+  height: 66px;
+}
+.healthSupportPageInner5,
+.healthSupportPageInner6,
+.healthSupportPageInner7,
+.healthSupportPageInner8 {
+  top: 2920px;
+  left: 941px;
+}
+.healthSupportPageInner6,
+.healthSupportPageInner7,
+.healthSupportPageInner8 {
+  top: 3465px;
+  left: 934px;
+}
+.healthSupportPageInner7,
+.healthSupportPageInner8 {
+  top: 3885px;
+}
+.healthSupportPageInner8 {
+  top: 4261px;
+}
+.request,
+.request1,
+.request2 {
+  position: absolute;
+  top: 705px;
+  left: 1079px;
+  font-weight: 500;
+  display: inline-block;
+  width: 221px;
+  height: 53px;
+}
+.request1,
+.request2 {
+  top: 399px;
+  left: 1082px;
+}
+.request2 {
+  top: 1068px;
+  left: 1079px;
+}
+.request10,
+.request3,
+.request4,
+.request5,
+.request6,
+.request7,
+.request8,
+.request9 {
+  position: absolute;
+  top: 1470px;
+  left: 1063px;
+  font-weight: 500;
+  display: inline-block;
+  width: 221px;
+  height: 53px;
+}
+.request10,
+.request4,
+.request5,
+.request6,
+.request7,
+.request8,
+.request9 {
+  top: 1840px;
+  left: 1073px;
+}
+.request10,
+.request5,
+.request6,
+.request7,
+.request8,
+.request9 {
+  top: 2226px;
+  left: 1063px;
+}
+.request10,
+.request6,
+.request7,
+.request8,
+.request9 {
+  top: 2560px;
+  left: 1075px;
+}
+.request10,
+.request7,
+.request8,
+.request9 {
+  top: 2926px;
+  left: 1067px;
+}
+.request10,
+.request8,
+.request9 {
+  top: 3471px;
+}
+.request10,
+.request9 {
+  top: 3894px;
+}
+.request10 {
+  top: 4261px;
+  left: 1055px;
+}
+.materialSymbolsstarHalfIcon {
+  position: absolute;
+  top: 895px;
+  left: 1118px;
+  width: 52px;
+  height: 52px;
+  overflow: hidden;
+}
+.materialSymbolsstarHalf,
+.materialSymbolsstarHalfIcon1,
+.vectorIcon56 {
+  position: absolute;
+  top: 1604px;
+  left: 1113px;
+  width: 47px;
+  height: 49px;
+  overflow: hidden;
+}
+.materialSymbolsstarHalf,
+.vectorIcon56 {
+  top: 2053px;
+  left: 1131px;
+}
+.vectorIcon56 {
+  height: 0.83%;
+  width: 2.59%;
+  top: 44.2%;
+  right: 24.06%;
+  bottom: 54.97%;
+  left: 73.35%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.healthSupportPageChild1,
+.healthSupportPageChild2,
+.healthSupportPageChild3,
+.healthSupportPageItem {
+  position: absolute;
+  top: 150px;
+  left: 61px;
+  border-radius: var(--br-31xl);
+  border: 3px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 1377px;
+  height: 345px;
+  mix-blend-mode: normal;
+}
+.healthSupportPageChild1,
+.healthSupportPageChild2,
+.healthSupportPageChild3 {
+  top: 511px;
+}
+.healthSupportPageChild2,
+.healthSupportPageChild3 {
+  top: 872px;
+}
+.healthSupportPageChild3 {
+  top: 1233px;
+}
+.healthSupportPageChild10,
+.healthSupportPageChild4,
+.healthSupportPageChild5,
+.healthSupportPageChild6,
+.healthSupportPageChild7,
+.healthSupportPageChild8,
+.healthSupportPageChild9 {
+  position: absolute;
+  top: 1594px;
+  left: 61px;
+  border-radius: var(--br-31xl);
+  border: 3px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 1377px;
+  height: 345px;
+  mix-blend-mode: normal;
+}
+.healthSupportPageChild10,
+.healthSupportPageChild5,
+.healthSupportPageChild6,
+.healthSupportPageChild7,
+.healthSupportPageChild8,
+.healthSupportPageChild9 {
+  top: 1955px;
+}
+.healthSupportPageChild10,
+.healthSupportPageChild6,
+.healthSupportPageChild7,
+.healthSupportPageChild8,
+.healthSupportPageChild9 {
+  top: 2316px;
+}
+.healthSupportPageChild10,
+.healthSupportPageChild7,
+.healthSupportPageChild8,
+.healthSupportPageChild9 {
+  top: 2677px;
+}
+.healthSupportPageChild10,
+.healthSupportPageChild8,
+.healthSupportPageChild9 {
+  top: 3230px;
+}
+.healthSupportPageChild10,
+.healthSupportPageChild9 {
+  top: 3635px;
+}
+.healthSupportPageChild10 {
+  top: 4020px;
+}
+.yearsExperience {
+  position: absolute;
+  top: 386px;
+  left: 361px;
+  font-weight: 500;
+  display: inline-block;
+  width: 379px;
+  height: 53px;
+}
+.yearsExperience1,
+.yearsExperience2,
+.yearsExperience3,
+.yearsExperience4,
+.yearsExperience5 {
+  position: absolute;
+  top: 713px;
+  left: 355px;
+  font-weight: 500;
+  display: inline-block;
+  width: 379px;
+  height: 53px;
+}
+.yearsExperience2,
+.yearsExperience3,
+.yearsExperience4,
+.yearsExperience5 {
+  top: 1060px;
+}
+.yearsExperience3,
+.yearsExperience4,
+.yearsExperience5 {
+  top: 1469px;
+  left: 371px;
+}
+.yearsExperience4,
+.yearsExperience5 {
+  top: 1825px;
+  left: 367px;
+}
+.yearsExperience5 {
+  top: 2181px;
+  left: 380px;
+}
+.newlyJoinedTo,
+.yearsExperience10,
+.yearsExperience6,
+.yearsExperience7,
+.yearsExperience8,
+.yearsExperience9 {
+  position: absolute;
+  top: 2564px;
+  left: 367px;
+  font-weight: 500;
+  display: inline-block;
+  width: 379px;
+  height: 53px;
+}
+.newlyJoinedTo,
+.yearsExperience10,
+.yearsExperience7,
+.yearsExperience8,
+.yearsExperience9 {
+  top: 2926px;
+}
+.newlyJoinedTo,
+.yearsExperience10,
+.yearsExperience8,
+.yearsExperience9 {
+  top: 3476px;
+  left: 371px;
+}
+.newlyJoinedTo,
+.yearsExperience10,
+.yearsExperience9 {
+  top: 3851px;
+  left: 367px;
+}
+.newlyJoinedTo,
+.yearsExperience10 {
+  top: 4262px;
+  left: 371px;
+}
+.newlyJoinedTo {
+  top: 3101px;
+  left: 84px;
+  width: 550px;
+  height: 58px;
+}
+.practocom {
+  color: var(--color-mediumslateblue);
+}
+.aboveDetailsHaveContainer,
+.drBrajNandan,
+.libertyloomAllRights {
+  position: absolute;
+  top: 4415px;
+  left: 300px;
+  font-weight: 500;
+  display: inline-block;
+  width: 940px;
+  height: 51px;
+}
+.drBrajNandan,
+.libertyloomAllRights {
+  top: 4525px;
+  left: 462px;
+  font-size: var(--font-size-17xl);
+  width: 778px;
+  height: 68px;
+}
+.drBrajNandan {
+  top: 201px;
+  left: 314px;
+  font-size: var(--font-size-29xl);
+  width: 544px;
+  height: 72px;
+}
+.drBrajNandanPathak1Icon {
+  position: absolute;
+  top: 201px;
+  left: 74px;
+  width: 228px;
+  height: 240px;
+  object-fit: cover;
+}
+.drDeepakVerma {
+  position: absolute;
+  top: 546px;
+  left: 316px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 466px;
+  height: 73px;
+}
+.drDeepakVerma1Icon {
+  position: absolute;
+  top: 550px;
+  left: 94px;
+  width: 208px;
+  height: 258px;
+  object-fit: cover;
+}
+.drGunjanJha {
+  position: absolute;
+  top: 902px;
+  left: 316px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 418px;
+  height: 61px;
+}
+.drGunjanJha1Icon {
+  position: absolute;
+  top: 913px;
+  left: 106px;
+  width: 187px;
+  height: 251px;
+  object-fit: cover;
+}
+.drOmkarSingh {
+  position: absolute;
+  top: 1260px;
+  left: 321px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 425px;
+  height: 67px;
+}
+.drOmkarSingh1Icon {
+  position: absolute;
+  top: 1285px;
+  left: 103px;
+  width: 190px;
+  height: 225px;
+  object-fit: cover;
+}
+.drAshokGrover {
+  position: absolute;
+  top: 1645px;
+  left: 315px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 395px;
+  height: 85px;
+}
+.drAshokGrover1Icon {
+  position: absolute;
+  top: 1636px;
+  left: 108px;
+  width: 185px;
+  height: 257px;
+  object-fit: cover;
+}
+.drAmritGoel {
+  position: absolute;
+  top: 2013px;
+  left: 316px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 423px;
+  height: 74px;
+}
+.drAmritGoel1Icon {
+  position: absolute;
+  top: 2003px;
+  left: 108px;
+  width: 198px;
+  height: 241px;
+  object-fit: cover;
+}
+.drApoorvaChandra {
+  position: absolute;
+  top: 2345px;
+  left: 315px;
+  font-weight: 500;
+  display: inline-block;
+  width: 412px;
+  height: 77px;
+}
+.drApoorvaChandra1Icon {
+  position: absolute;
+  top: 2360px;
+  left: 111px;
+  width: 182px;
+  height: 244px;
+  object-fit: cover;
+}
+.drFaizAhmed {
+  position: absolute;
+  top: 2725px;
+  left: 309px;
+  font-weight: 500;
+  display: inline-block;
+  width: 418px;
+  height: 68px;
+}
+.drFaizAhmed1Icon {
+  position: absolute;
+  top: 2713px;
+  left: 113px;
+  width: 180px;
+  height: 253px;
+  object-fit: cover;
+}
+.drArvindJayaswal {
+  position: absolute;
+  top: 3269px;
+  left: 333px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 439px;
+  height: 95px;
+}
+.drArvindJayaswal1Icon {
+  position: absolute;
+  top: 3269px;
+  left: 110px;
+  width: 196px;
+  height: 253px;
+  object-fit: cover;
+}
+.drShantimaniBara {
+  position: absolute;
+  top: 3671px;
+  left: 333px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 465px;
+  height: 82px;
+}
+.drShantimaniBara1Icon {
+  position: absolute;
+  top: 3679px;
+  left: 111px;
+  width: 195px;
+  height: 255px;
+  object-fit: cover;
+}
+.drMayankArora {
+  position: absolute;
+  top: 4073px;
+  left: 323px;
+  font-size: var(--font-size-29xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 475px;
+  height: 54px;
+}
+.drMayankArora1Icon {
+  position: absolute;
+  top: 4078px;
+  left: 113px;
+  width: 187px;
+  height: 237px;
+  object-fit: cover;
+}
+.humbleiconsaid,
+.humbleiconsaid1,
+.humbleiconsaid2 {
+  position: absolute;
+  top: 382px;
+  left: 302px;
+  width: 59px;
+  height: 57px;
+  overflow: hidden;
+}
+.humbleiconsaid1,
+.humbleiconsaid2 {
+  top: 713px;
+}
+.humbleiconsaid2 {
+  top: 1056px;
+  left: 296px;
+}
+.humbleiconsaid3,
+.humbleiconsaid4,
+.humbleiconsaid5,
+.humbleiconsaid6 {
+  position: absolute;
+  top: 1467px;
+  left: 306px;
+  width: 59px;
+  height: 57px;
+  overflow: hidden;
+}
+.humbleiconsaid4,
+.humbleiconsaid5,
+.humbleiconsaid6 {
+  top: 1821px;
+  left: 302px;
+}
+.humbleiconsaid5,
+.humbleiconsaid6 {
+  top: 2181px;
+  left: 312px;
+}
+.humbleiconsaid6 {
+  top: 2562px;
+  left: 306px;
+}
+.humbleiconsaid10,
+.humbleiconsaid7,
+.humbleiconsaid8,
+.humbleiconsaid9 {
+  position: absolute;
+  top: 2924px;
+  left: 298px;
+  width: 59px;
+  height: 57px;
+  overflow: hidden;
+}
+.humbleiconsaid10,
+.humbleiconsaid8,
+.humbleiconsaid9 {
+  top: 3472px;
+  left: 312px;
+}
+.humbleiconsaid10,
+.humbleiconsaid9 {
+  top: 3851px;
+  left: 309px;
+}
+.humbleiconsaid10 {
+  top: 4260px;
+  left: 306px;
+}
+.healthSupport {
+  position: absolute;
+  top: 52px;
+  left: 607px;
+  font-weight: 500;
+  display: inline-block;
+  width: 306px;
+  height: 47px;
+}
+.vectorIcon57,
+.vectorIcon58 {
+  position: absolute;
+  height: 54.22%;
+  width: 54.2%;
+  top: 22.97%;
+  right: 22.82%;
+  bottom: 22.81%;
+  left: 22.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon58 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 1.37%;
+  width: 4.4%;
+  top: 0.95%;
+  right: 5.78%;
+  bottom: 97.68%;
+  left: 89.81%;
+}
+.healthSupportPage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4656px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-exo);
+}

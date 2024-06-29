@@ -1,0 +1,703 @@
+.vectorIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.menu,
+.menuWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 36.7px;
+  height: 39px;
+}
+.menuWrapper {
+  top: 37px;
+  left: 1434px;
+}
+.vishnuKumar21 {
+  position: absolute;
+  top: 0;
+  left: 467px;
+  width: 224px;
+  height: 271px;
+  object-fit: cover;
+}
+.name,
+.vishnuTiwari {
+  position: absolute;
+  top: 0;
+  left: 113px;
+  font-weight: 500;
+  display: inline-block;
+  width: 108px;
+  height: 48px;
+}
+.vishnuTiwari {
+  left: 224px;
+  font-weight: 300;
+  width: 224px;
+  height: 36px;
+}
+.span {
+  font-weight: 600;
+}
+.age,
+.i,
+.i1,
+.male,
+.sex,
+.weight {
+  position: absolute;
+  top: 59px;
+  left: 145px;
+  display: inline-block;
+  width: 79px;
+  height: 37px;
+}
+.age,
+.i,
+.i1,
+.male,
+.weight {
+  top: 64px;
+  left: 230px;
+  font-weight: 300;
+  width: 88px;
+  height: 41px;
+}
+.age,
+.i,
+.i1,
+.weight {
+  top: 112px;
+  left: 137px;
+  font-weight: 500;
+  width: 76px;
+}
+.i,
+.i1,
+.weight {
+  top: 119px;
+  left: 230px;
+  font-weight: 300;
+  width: 50px;
+  height: 38px;
+}
+.i1,
+.weight {
+  top: 170px;
+  left: 88px;
+  font-weight: 500;
+  width: 130px;
+  height: 44px;
+}
+.i1 {
+  top: 173px;
+  left: 230px;
+  font-weight: 300;
+  width: 53px;
+  height: 34px;
+}
+.height {
+  font-weight: 500;
+}
+.cm {
+  font-weight: 300;
+}
+.height16948cmContainer {
+  position: absolute;
+  top: 225px;
+  left: 90px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 309px;
+  height: 40px;
+}
+.aadharNoContainer {
+  position: absolute;
+  top: 280px;
+  left: 23px;
+  display: inline-block;
+  width: 444px;
+  height: 49px;
+}
+.clear,
+.span1 {
+  font-weight: 600;
+  font-family: var(--font-exo);
+}
+.clear {
+  font-weight: 300;
+}
+.healthClear {
+  margin: 0;
+}
+.condition {
+  margin: 0;
+  font-weight: 500;
+}
+.healthClearContainer {
+  position: absolute;
+  top: 451px;
+  left: 83px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 371px;
+  height: 98px;
+}
+.caseChargedContainer {
+  position: absolute;
+  top: 337px;
+  left: 118px;
+  display: inline-block;
+  width: 407px;
+  height: 59px;
+}
+.completeCaseInformation,
+.sectionIpcContainer {
+  position: absolute;
+  top: 398px;
+  left: 88px;
+  display: inline-block;
+  width: 638px;
+  height: 45px;
+}
+.completeCaseInformation {
+  top: 581px;
+  left: 0;
+  font-weight: 500;
+  width: 430px;
+}
+.caseInformation1,
+.clickHere {
+  cursor: pointer;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.caseInformation1 {
+  border: 2px solid #f8f3f3;
+  top: 575px;
+  left: 448px;
+  box-sizing: border-box;
+  width: 204px;
+  height: 58px;
+}
+.clickHere {
+  border: 0;
+  top: 586px;
+  left: 467px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  font-family: var(--font-exo);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 185px;
+  height: 35px;
+}
+.frame2,
+.frame3 {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  width: 726px;
+  height: 633px;
+  overflow: hidden;
+}
+.frame2 {
+  top: 0;
+  left: 679px;
+  height: 657px;
+}
+.courtProceedings1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-16xl);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 289px;
+  height: 70px;
+}
+.courtProceeding {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 15px;
+  left: 11px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  font-family: var(--font-exo);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 267px;
+  height: 47px;
+}
+.frame7 {
+  border: 0;
+  top: 278px;
+  left: 32px;
+  width: 289px;
+  height: 70px;
+  overflow: hidden;
+}
+.frame7,
+.skillDevelopment,
+.skillDevelopment1 {
+  cursor: pointer;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.skillDevelopment1 {
+  border: 3px solid var(--color-white);
+  top: 0;
+  left: 0;
+  border-radius: var(--br-16xl);
+  box-sizing: border-box;
+  width: 289px;
+  height: 70px;
+}
+.skillDevelopment {
+  border: 0;
+  top: 16px;
+  left: 11px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  font-family: var(--font-exo);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 296px;
+  height: 30px;
+}
+.frame9 {
+  position: absolute;
+  top: 360px;
+  left: 0;
+  width: 307px;
+  height: 70px;
+  overflow: hidden;
+}
+.lawyers1Wrapper {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 0;
+  width: 289px;
+  height: 70px;
+}
+.frame10,
+.lawyers,
+.lawyers1Wrapper {
+  cursor: pointer;
+  position: absolute;
+}
+.lawyers {
+  top: 12px;
+  left: 75px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  font-family: var(--font-exo);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 140px;
+  height: 44px;
+}
+.frame10 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 122px;
+  left: 3px;
+  width: 289px;
+  height: 70px;
+  overflow: hidden;
+}
+.healthSupport1,
+.healthSupport1Wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 285px;
+  height: 70px;
+}
+.healthSupport1 {
+  border-radius: var(--br-16xl);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+}
+.healthSupport1Wrapper {
+  cursor: pointer;
+}
+.healthSupport2,
+.i3 {
+  font-family: var(--font-exo);
+}
+.healthSupport2 {
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+}
+.i3 {
+  font-size: var(--font-size-21xl);
+}
+.healthSupport {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 9px;
+  left: 21px;
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 253px;
+  height: 48px;
+}
+.frame11 {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  width: 285px;
+  height: 70px;
+  overflow: hidden;
+}
+.communication,
+.frame11,
+.frame12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+}
+.communication {
+  position: absolute;
+  top: 15px;
+  left: 29px;
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  font-family: var(--font-exo);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 247px;
+  height: 48px;
+}
+.frame12 {
+  top: 485px;
+  left: 3px;
+  width: 289px;
+  height: 70px;
+}
+.frame12,
+.frame5,
+.frame6,
+.frame8 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame8 {
+  top: 33px;
+  left: 37px;
+  width: 307px;
+  height: 555px;
+}
+.frame5,
+.frame6 {
+  top: 0;
+  left: 0;
+  width: 352px;
+}
+.frame6 {
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  height: 645px;
+}
+.frame5 {
+  height: 657px;
+}
+.ellipseIcon,
+.frameChild,
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 405px;
+  left: 0;
+  width: 36px;
+  height: 37px;
+}
+.ellipseIcon,
+.frameInner,
+.frameItem {
+  top: 296px;
+}
+.ellipseIcon,
+.frameInner {
+  top: 81px;
+}
+.ellipseIcon {
+  top: 189px;
+}
+.frameChild1,
+.frameChild2,
+.lineDiv {
+  position: absolute;
+  top: 117.5px;
+  left: 17.5px;
+  border-right: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 72px;
+}
+.frameChild1,
+.frameChild2 {
+  top: 225.5px;
+  height: 71px;
+}
+.frameChild2 {
+  top: 332.5px;
+  height: 73px;
+}
+.application,
+.bailProcess,
+.firCopy,
+.hearing,
+.submission {
+  position: absolute;
+  top: 290px;
+  left: 66px;
+  display: inline-block;
+  width: 141px;
+  height: 37px;
+}
+.application,
+.bailProcess,
+.hearing,
+.submission {
+  top: 406px;
+  left: 58px;
+  width: 174px;
+}
+.bailProcess,
+.hearing,
+.submission {
+  top: 182px;
+}
+.bailProcess,
+.hearing {
+  top: 77px;
+  left: 66px;
+}
+.bailProcess {
+  top: 0;
+  left: 18px;
+  width: 189px;
+  height: 39px;
+}
+.frame,
+.frame1,
+.frame13,
+.frame14,
+.frame4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 240px;
+  height: 443px;
+  overflow: hidden;
+}
+.frame,
+.frame1,
+.frame13,
+.frame4 {
+  top: 17px;
+  left: 392px;
+  height: 623px;
+}
+.frame,
+.frame1,
+.frame4 {
+  top: 0;
+  left: 0;
+  width: 632px;
+  height: 657px;
+}
+.frame,
+.frame1 {
+  width: 1405px;
+}
+.frame {
+  top: 175px;
+  left: 45px;
+  width: 1425.7px;
+}
+.libertyloomAllRights {
+  position: absolute;
+  top: 5px;
+  left: 905px;
+  font-weight: 500;
+  display: inline-block;
+  width: 462px;
+  height: 27px;
+}
+.documents,
+.documents1,
+.documents1Wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 249px;
+  height: 35px;
+}
+.documents {
+  font-size: var(--font-size-13xl);
+  font-weight: 500;
+  font-family: var(--font-exo);
+  color: var(--color-white);
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+}
+.documents1,
+.documents1Wrapper {
+  cursor: pointer;
+}
+.documents1Wrapper {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 1px;
+  left: 584px;
+}
+.privacyPolicy,
+.privacyPolicy1 {
+  position: absolute;
+  width: 155px;
+  height: 31px;
+}
+.privacyPolicy {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-exo);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.privacyPolicy1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 3px;
+  left: 146px;
+}
+.termsOfService,
+.termsOfService1 {
+  position: absolute;
+  width: 204px;
+  height: 36px;
+}
+.termsOfService {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-exo);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.termsOfService1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 4px;
+  left: 325px;
+}
+.div,
+.div1 {
+  position: absolute;
+  top: 3px;
+  left: 132px;
+  font-weight: 500;
+  display: inline-block;
+  width: 8px;
+  height: 28px;
+}
+.div1 {
+  top: 4px;
+  left: 307px;
+}
+.disclaimer,
+.disclaimerWrapper {
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 128px;
+  height: 28px;
+}
+.disclaimer {
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  font-family: var(--font-exo);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.disclaimerWrapper {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+}
+.frame15,
+.frame16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1367px;
+  height: 40px;
+  overflow: hidden;
+}
+.frame15 {
+  top: 931px;
+  left: 93px;
+  width: 1377.7px;
+  font-size: var(--font-size-5xl);
+}
+.prisonerHomepage {
+  position: relative;
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  background-image: url(/public/scanninig-page@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-exo);
+}

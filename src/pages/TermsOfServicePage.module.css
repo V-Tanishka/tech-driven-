@@ -1,0 +1,79 @@
+.startingIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 3643px;
+  object-fit: cover;
+}
+.termsOfService {
+  position: absolute;
+  top: 145px;
+  left: 99px;
+  font-weight: 500;
+  display: inline-block;
+  width: 292px;
+  height: 43px;
+}
+.blankLine {
+  margin: 0;
+}
+.byAccessingOr {
+  font-weight: 500;
+}
+.changesToTerms {
+  font-weight: 900;
+}
+.contactlibertyloomcom {
+  color: #3525ed;
+}
+.mailto {
+  color: var(--color-white);
+}
+.contactlibertyloomcom1 {
+  color: var(--color-mediumblue-100);
+}
+.lastUpdated10012024Container {
+  position: absolute;
+  top: 245px;
+  left: 77px;
+  display: inline-block;
+  width: 1357px;
+  height: 3445px;
+}
+.groupIcon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 1.76%;
+  width: 4.4%;
+  top: 2.22%;
+  right: 5.19%;
+  bottom: 96.02%;
+  left: 90.41%;
+}
+.termsOfServicePage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 3643px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-exo);
+}

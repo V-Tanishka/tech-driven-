@@ -1,0 +1,125 @@
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 54.22%;
+  width: 54.2%;
+  top: 22.97%;
+  right: 22.82%;
+  bottom: 22.81%;
+  left: 22.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 66.6px;
+  height: 64px;
+}
+.frame1 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0 0.00005340576171875px;
+}
+.frameIcon {
+  position: relative;
+  width: 738px;
+  height: 148px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 87px;
+}
+.jailer {
+  font-weight: 500;
+}
+.yourRequestHasContainer {
+  align-self: stretch;
+  position: relative;
+  white-space: pre-wrap;
+}
+.thankYou {
+  position: relative;
+  display: inline-block;
+  text-align: left;
+  width: 228px;
+  height: 49px;
+  flex-shrink: 0;
+}
+.frame3 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.libertyloomAllRights {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 475px;
+  height: 31px;
+  flex-shrink: 0;
+}
+.frame2,
+.frame4,
+.healthSupport2Page {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame4 {
+  align-self: stretch;
+  align-items: flex-end;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+}
+.frame2,
+.healthSupport2Page {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame2 {
+  align-self: stretch;
+  gap: 274px;
+}
+.healthSupport2Page {
+  position: relative;
+  width: 100%;
+  padding: 63px 37px 26px 91px;
+  box-sizing: border-box;
+  gap: 36px;
+  background-image: url(/public/health-support-2-page@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-exo);
+}

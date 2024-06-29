@@ -1,0 +1,175 @@
+.startingIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 982px;
+  object-fit: cover;
+}
+.skillDevelopment {
+  position: absolute;
+  top: 125px;
+  left: 602px;
+  font-weight: 500;
+  display: inline-block;
+  width: 339px;
+  height: 71px;
+}
+.groupChild,
+.skillDevelopmentPageInner {
+  position: absolute;
+  width: 595px;
+  height: 96px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray);
+  border: 3px solid var(--color-whitesmoke-300);
+  box-sizing: border-box;
+}
+.skillDevelopmentPageInner {
+  top: 234px;
+  left: 458px;
+}
+.groupItem,
+.skillDevelopmentPageChild {
+  position: absolute;
+  width: 595px;
+  height: 98px;
+}
+.groupItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray);
+  border: 3px solid var(--color-whitesmoke-300);
+  box-sizing: border-box;
+}
+.skillDevelopmentPageChild {
+  top: 374px;
+  left: 458px;
+}
+.groupDiv,
+.groupInner {
+  position: absolute;
+  width: 595px;
+  height: 99px;
+}
+.groupInner {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray);
+  border: 3px solid var(--color-whitesmoke-300);
+  box-sizing: border-box;
+}
+.groupDiv {
+  top: 508px;
+  left: 458px;
+}
+.skillDevelopmentPageInner1,
+.skillDevelopmentPageInner2 {
+  position: absolute;
+  top: 646px;
+  left: 458px;
+  width: 595px;
+  height: 99px;
+}
+.skillDevelopmentPageInner2 {
+  top: 789px;
+}
+.personalityDevelopment {
+  text-decoration: underline;
+  position: absolute;
+  top: 253px;
+  left: 504px;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+  width: 489px;
+  height: 57px;
+  cursor: pointer;
+}
+.learnMeditaion,
+.learnYoga {
+  position: absolute;
+  width: 369px;
+  height: 60px;
+  cursor: pointer;
+}
+.learnMeditaion {
+  text-decoration: underline;
+  top: 393px;
+  left: 587px;
+  font-weight: 500;
+  color: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+}
+.learnYoga {
+  top: 535px;
+  left: 624px;
+}
+.exercise,
+.learnYoga,
+.vocationalTraining {
+  text-decoration: underline;
+  font-weight: 500;
+  color: inherit;
+  display: inline-block;
+}
+.exercise {
+  position: absolute;
+  top: 668px;
+  left: 657px;
+  width: 220px;
+  height: 51px;
+  cursor: pointer;
+}
+.vocationalTraining {
+  top: 811px;
+  left: 572px;
+  width: 367px;
+  height: 53px;
+}
+.groupIcon,
+.groupWrapper,
+.vocationalTraining {
+  cursor: pointer;
+  position: absolute;
+}
+.groupIcon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupWrapper {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 6.52%;
+  width: 4.4%;
+  top: 6.21%;
+  right: 5.25%;
+  bottom: 87.27%;
+  left: 90.34%;
+}
+.skillDevelopmentPage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-exo);
+}

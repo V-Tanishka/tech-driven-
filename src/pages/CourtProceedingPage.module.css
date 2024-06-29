@@ -1,0 +1,107 @@
+.courtProceedings {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 437px;
+  height: 84px;
+  flex-shrink: 0;
+}
+.frame {
+  width: 913.6px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 54.22%;
+  width: 54.2%;
+  top: 22.97%;
+  right: 22.82%;
+  bottom: 22.81%;
+  left: 22.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  width: 66.6px;
+  height: 64px;
+}
+.inOurCommitment {
+  margin: 0;
+  font-weight: 500;
+}
+.userInstructions {
+  margin: 0;
+}
+.firstYouHave {
+  font-weight: 500;
+}
+.inOurCommitmentContainer {
+  align-self: stretch;
+  position: relative;
+  white-space: pre-wrap;
+}
+.frame3 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.courtProceedingPage,
+.frame1,
+.frame2,
+.frame3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame2 {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: center;
+}
+.courtProceedingPage,
+.frame1 {
+  align-items: flex-end;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.frame1 {
+  width: 1400px;
+  height: 2299px;
+  flex-shrink: 0;
+  padding: 1046px 0 31px;
+  gap: 35px;
+  font-size: var(--font-size-17xl);
+}
+.courtProceedingPage {
+  position: relative;
+  width: 100%;
+  padding: 53px 56.42401123046875px 115px 56.424072265625px;
+  gap: 20px;
+  background-image: url(/public/court-proceeding-page@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-exo);
+}
